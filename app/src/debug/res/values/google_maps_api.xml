@@ -1,0 +1,4 @@
+<resources>
+    <!-- put your own google maps api key between the tags, and don't forget to update it in Manifest -->
+    <string name="g_map_key" templateMergeStrategy="preserve" translatable="false">PUT YOUR OWN KEY HERE</string>
+</resources>
